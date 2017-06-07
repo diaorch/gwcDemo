@@ -1,0 +1,28 @@
+---
+title: '20170607'
+author: "diaorch"
+date: "June 7, 2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R
+
+### Basic Cocepts
+```{r echo = TRUE}
+dx = 10
+h = 30
+area = dx * h
+print(area)
+```
+
+### Markdown / R Markdown
+
+## Simulation and Probability 
+
+## Distributions
+
+## Visualizing and Understanding Data
